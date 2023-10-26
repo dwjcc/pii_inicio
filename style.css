@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'zabal';
+    src: url(fonts/ZabalDEMO-Regular.otf);
+}
+
+
+h1{
+    font-family: 'zabal';
+    font-weight: 70000;
+    color:rgba(0, 38, 83, 1);
+    text-align: center;
+    padding-top: 50px;
+}
+nav{
+    font-family: 'zabal';
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+a:hover{
+    color: rgba(255, 92, 0, 1);
+}
+footer{
+    background-color: rgba(0, 77, 142, 1);
+    font-family: 'zabal';
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+p{
+    color: white;
+}
