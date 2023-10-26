@@ -28,6 +28,7 @@ footer{
 }
 p{
     color: white;
+    text-align: end;
 }
 .voluntario{
     display: flex;
