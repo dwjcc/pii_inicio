@@ -29,3 +29,14 @@ footer{
 p{
     color: white;
 }
+.voluntario{
+    display: flex;
+    justify-content: flex-end;
+    font-family: 'zabal';
+    font-weight: bolder;
+    color: rgba(0, 37, 83, 0.473);
+}
+.pesquisa{
+    text-transform: uppercase;
+    font-family: 'zabal';
+}
